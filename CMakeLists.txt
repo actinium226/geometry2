@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.0)
+project(geometry2)
+
+add_subdirectory(tf2_msgs)
+add_subdirectory(tf2)
+add_subdirectory(tf2_bullet)
+add_subdirectory(tf2_eigen)
+add_subdirectory(tf2_py)
+add_subdirectory(tf2_ros)
+add_subdirectory(tf2_kdl)
+add_subdirectory(tf2_geometry_msgs)
+add_subdirectory(tf2_sensor_msgs)
+add_subdirectory(tf2_tools)
+add_subdirectory(test_tf2)
+
